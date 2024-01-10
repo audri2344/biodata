@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/biodata/static/css/main.e06b7851.css",
+    "main.js": "/biodata/static/js/main.fa783805.js",
+    "static/media/gambar.png": "/biodata/static/media/gambar.609f77ef3bdc1d32ec26.png",
+    "index.html": "/biodata/index.html",
+    "main.e06b7851.css.map": "/biodata/static/css/main.e06b7851.css.map",
+    "main.fa783805.js.map": "/biodata/static/js/main.fa783805.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e06b7851.css",
+    "static/js/main.fa783805.js"
+  ]
+}
